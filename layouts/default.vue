@@ -1,5 +1,8 @@
 <template>
   <div>
+    <header>
+      <h1>練習</h1>
+    </header>
     <Nuxt />
   </div>
 </template>
